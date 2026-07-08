@@ -1,8 +1,7 @@
 /*
 ===============================================================================
 Script Name : create_databases.sql
-Project     : SQL Data Warehouse (Bronze, Silver, Gold)
-Author      : Abubakar
+
 Description :
     This script creates the databases used for the Modern Data Warehouse
     architecture.
